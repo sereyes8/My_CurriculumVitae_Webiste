@@ -1,6 +1,6 @@
 
 
-<h1>  My Curriculum Vitae Webiste: </h1> 
+<h1>  My Curriculum Vitae Website: </h1> 
  
 **A totally animated responsive website built using the latest web developing tools.**
  
