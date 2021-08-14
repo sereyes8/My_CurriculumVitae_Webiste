@@ -25,6 +25,6 @@ Important concept covered and implemented:
 
 <h1>Project Demo</h1>
 
-https://sebastianreyes.info/cv/
+http://sebastianreyes.me/u/
 
 
